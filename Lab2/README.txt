@@ -29,6 +29,9 @@ Dalc	            workday alcohol consumption (numeric: from 1 - very low to 5 - 
 Walc	            weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
 health	            current health status (numeric: from 1 - very bad to 5 - very good)
 absences	    number of school absences (numeric: from 0 to 93)
+G1	              first period grade (numeric: from 0 to 20)
+G2	              second period grade (numeric: from 0 to 20)
+G3	              final grade (numeric: from 0 to 20, output target)
 
 You can also find this legend dataset's homepade in abouts(https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study)
 
